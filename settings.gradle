@@ -1,0 +1,4 @@
+rootProject.name = "HiltDemo"
+include ':hiltsample'
+include ':daggersample'
+include ':koinsample'
